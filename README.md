@@ -3,7 +3,7 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@betaolicks)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/betolicks)
 
-![Beto GitHub stats](https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=dracula&count_private=true)
+![Beto GitHub stats](https://github-readme-stats.vercel.app/api?username=BetoLicks&show_icons=true&theme=dracula&count_private=true)
 
 ## Tecnologias que eu uso
 
