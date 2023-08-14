@@ -7,9 +7,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BetoLicks&show_icons=true&theme=tokyonight"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BetoLicks&layout=compact&theme=tokyonight"/>
 </div>
-![](https://github-readme-stats.vercel.app/api?username=BetoLicks&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=BetoLicks&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BetoLicks&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   
 ## Tecnologias que eu uso
 
