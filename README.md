@@ -8,7 +8,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BetoLicks&layout=compact&theme=tokyonight"/>
 </div>
   
-## Tecnologias que eu uso
+## Tecnologies, frameworks and tools
 
 <div style="display: inline_block">       
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white " />
