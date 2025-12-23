@@ -29,11 +29,7 @@ Desenvolvedor Full Stack apaixonado por criar soluções robustas e escaláveis.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Frameworks & Ferramentas
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+
 
 ### Sistemas Operacionais & IDE
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
@@ -53,7 +49,9 @@ Desenvolvedor Full Stack apaixonado por criar soluções robustas e escaláveis.
 
 <div align="center">
   
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BetoLicks&theme=tokyo-night&hide_border=true)
+  ![GitHub Contribution Grid](https://ghchart.rshah.org/4FC08D/BetoLicks)
+  
+  ### 📊 Atividade Detalhada
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BetoLicks&theme=tokyonight&hide_border=true)
   
