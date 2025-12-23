@@ -29,8 +29,6 @@ Desenvolvedor Full Stack apaixonado por criar soluções robustas e escaláveis.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-
-
 ### Sistemas Operacionais & IDE
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Lazarus](https://img.shields.io/badge/Lazarus_IDE-FFA500?style=for-the-badge&logo=lazarus&logoColor=white)
@@ -50,18 +48,6 @@ Desenvolvedor Full Stack apaixonado por criar soluções robustas e escaláveis.
 <div align="center">
   
   ![GitHub Contribution Grid](https://ghchart.rshah.org/4FC08D/BetoLicks)
-  
-  ### 📊 Atividade Detalhada
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BetoLicks&theme=tokyonight&hide_border=true)
-  
-</div>
-
-## 🏆 Conquistas GitHub
-
-<div align="center">
-  
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=BetoLicks&theme=tokyonight&no-frame=true&row=1&column=7)
   
 </div>
 
@@ -97,12 +83,5 @@ Sistema completo de Cadastro de Alunos
 
 > "O código limpo sempre parece que foi escrito por alguém que se importa." - Robert C. Martin
 
----
 
-<div align="center">
-  
-  **⭐️ Se você gostou dos meus projetos, considere dar uma estrela!**
-  
-  ![Snake animation](https://raw.githubusercontent.com/BetoLicks/BetoLicks/output/github-contribution-grid-snake.svg)
-  
-</div>
+
