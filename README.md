@@ -33,16 +33,6 @@ Desenvolvedor Full Stack apaixonado por criar soluções robustas e escaláveis.
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Lazarus](https://img.shields.io/badge/Lazarus_IDE-FFA500?style=for-the-badge&logo=lazarus&logoColor=white)
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  
-  ![BetoLicks GitHub Stats](https://github-readme-stats.vercel.app/api?username=BetoLicks&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BetoLicks&layout=compact&theme=tokyonight&hide_border=true)
-  
-</div>
-
 ## 📈 Contribuições em 2025
 
 <div align="center">
